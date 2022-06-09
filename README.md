@@ -3,7 +3,7 @@
 ## Here's how to reach me!
 [![Linkedin Badge](https://img.shields.io/badge/zeynepdellal-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeynep-dellal-961764201/)
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/zedyjy)
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=zedyjy&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
 ![linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/zeynep-dellal-961764201/)
 ![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)(https://medium.com/@zeynep.dellal)
