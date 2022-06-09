@@ -1,6 +1,7 @@
 ### Hi there 👋 Welcome to my Github Profile
 
 ## Here's how to reach me!
+[![Linkedin Badge](https://img.shields.io/badge/zeynepdellal-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeynepdellal/)
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/zedyjy)
 
