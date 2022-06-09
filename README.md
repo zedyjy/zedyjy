@@ -1,8 +1,8 @@
-<p align='center'>
 
 ### Hi there 👋 Welcome to my Github Profile
 
 ## Here's how to reach me!
+<p>
 
    <a href="https://www.linkedin.com/in/zeynep-dellal-961764201/">
     <img src="https://img.shields.io/badge/zeynepdellal-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin" />        
