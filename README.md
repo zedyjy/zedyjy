@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my Github Profile
 
 ## Here's how to reach me!
-[<img alt="github" src="C:\Users\zeyne\Dropbox\My PC (LAPTOP-UIF680BP)\Desktop\GitHub-100000.svg" />]
+[<img alt="github" src="[C:\Users\zeyne\Dropbox\My PC (LAPTOP-UIF680BP)\Desktop\GitHub-100000.svg](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" />]
 <!--
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)(https://github.com/zedyjy)
 
