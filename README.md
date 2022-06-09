@@ -1,7 +1,7 @@
 
-### Hi there 👋 Welcome to my Github Profile
+## Hi there 👋 Welcome to my Github Profile
 
-## Here's how to reach me!
+### Here's how to reach me!
 <p>
 
    <a href="https://www.linkedin.com/in/zeynep-dellal-961764201/">
@@ -15,20 +15,21 @@
   <a href="https://github.com/zedyjy">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
-<!--
-![linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/zeynep-dellal-961764201/)
-![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)(https://medium.com/@zeynep.dellal)
 
-##🌱 My Github Stats
+### 🌱 My Github Stats
 
-[![Zey's GitHub stats](https://github-readme-stats.vercel.app/api?username=zedyjy)](https://github.com/zedyjy/github-readme-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=zedyjy&show_icons=true&count_private=true&theme=dark" width="350">
 
-[![Zey's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zedyjy)]
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedyjy" width="350">
+</p>
 
+### ⚡ My Resume 
 
-Here are some ideas to get you started:
+<p>
+   <a href="https://github.com/zedyjy/zedyjy/files/8873389/Zeynep.Dellal.Cv.pdf" style="background-color:#ffffa0">Resume</a>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
