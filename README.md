@@ -31,6 +31,15 @@
    <a href="https://github.com/zedyjy/zedyjy/files/8873389/Zeynep.Dellal.Cv.pdf"  style="color:#fe97a4">Resume</a>
 </p>
 
+### 😄 Fun Fact
+
+I love watching movies!  <a href="https://letterboxd.com/zeycurious/"  style="color:#fe97a4">My Letterboxd!</a>
+
+### 🔭 I’m currently learning 
+
+Python and building websites! I'm interested in machine learning and Artificial Intelligence.
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
