@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zeynep.dellal@gmail.com&su=SUBJECT&body=BODY&bcc=zeynep.dellal@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zeynep.dellal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
