@@ -28,7 +28,7 @@
 ### ⚡ My Resume 
 
 <p>
-   <a href="https://github.com/zedyjy/zedyjy/files/8873389/Zeynep.Dellal.Cv.pdf"  style="color:#fe97a4">Resume</a>
+   <a href="https://github.com/zedyjy/zedyjy/files/9188541/Zeynep.Dellal.CV.pdf"  style="color:#fe97a4">Resume</a>
 </p>
 
 ### 😄 Fun Fact
@@ -48,3 +48,4 @@ Python and building websites! I'm interested in machine learning and Artificial 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...--!>
+[Zeynep Dellal CV.pdf](https://github.com/zedyjy/zedyjy/files/9188541/Zeynep.Dellal.CV.pdf)
