@@ -28,7 +28,7 @@
 ### ⚡ My Resume 
 
 <p>
-   <a href="https://github.com/zedyjy/zedyjy/files/9188541/Zeynep.Dellal.CV.pdf"  style="color:#fe97a4">Resume</a>
+   <a href="https://github.com/zedyjy/zedyjy/files/9333184/Zeynep.Dellal.CV.pdf"  style="color:#fe97a4">Resume</a>
 </p>
 
 ### 😄 Fun Fact
