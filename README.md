@@ -28,7 +28,7 @@
 ### ⚡ My Resume 
 
 <p>
-   <a href="https://github.com/zedyjy/zedyjy/files/9333184/Zeynep.Dellal.CV.pdf"  style="color:#fe97a4">Resume</a>
+   <a href="https://github.com/zedyjy/zedyjy/files/10395689/Zeynep.Dellal.Professional.resume.pdf"  style="color:#fe97a4">Resume</a>
 </p>
 
 ### 😄 Fun Fact
@@ -38,6 +38,7 @@ I love watching movies!  <a href="https://letterboxd.com/zeycurious/"  style="co
 ### 🔭 I’m currently learning 
 
 Python and building websites! I'm interested in machine learning and Artificial Intelligence.
+[Zeynep Dellal Professional resume.pdf](https://github.com/zedyjy/zedyjy/files/10395689/Zeynep.Dellal.Professional.resume.pdf)
 
 <!--
 - 🔭 I’m currently working on ...
