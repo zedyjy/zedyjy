@@ -34,7 +34,6 @@
 ### 🔭 I’m currently learning 
 
 Python and building websites! I'm interested in machine learning and Artificial Intelligence.
-[Zeynep Dellal Professional resume.pdf](https://github.com/zedyjy/zedyjy/files/10395689/Zeynep.Dellal.Professional.resume.pdf)
 
 <!--
 - 🔭 I’m currently working on ...
