@@ -28,7 +28,7 @@
 ### ⚡ My Resume 
 
 <p>
-   <a href="https://github.com/zedyjy/zedyjy/files/10395689/Zeynep.Dellal.Professional.resume.pdf"  style="color:#fe97a4">Resume</a>
+   <a href="https://github.com/zedyjy/zedyjy/files/10930675/Zeynep.Dellal.Resume.pdf"  style="color:#fe97a4">Resume</a>
 </p>
 
 ### 🔭 I’m currently learning 
@@ -42,5 +42,6 @@ Python and building websites! I'm interested in machine learning and Artificial 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...[Zeynep Dellal Resume.pdf](https://github.com/zedyjy/zedyjy/files/10930675/Zeynep.Dellal.Resume.pdf)
+
 - ⚡ Fun fact: ...--!>
