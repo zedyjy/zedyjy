@@ -22,7 +22,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=zedyjy&show_icons=true&count_private=true&theme=dark" width="350">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedyjy" width="350" >
+ <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedyjy" width="350" -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zedyjy&layout=compact)](https://github.com/zedyjy/github-readme-stats)
+
 </p>
 
 ### ⚡ My Resume 
