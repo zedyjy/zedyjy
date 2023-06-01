@@ -23,7 +23,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zedyjy&show_icons=true&count_private=true&theme=dark" width="350">
 
  <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedyjy" width="350" -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zedyjy&theme=dracula)](https://github.com/zedyjy/github-readme-stats)
+<a href="https://github.com/zedyjy/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedyjy&theme=dark" alt="Top Languages" width="350" height="300">
+</a>
+[![CS319-Project](https://img.shields.io/badge/my--repo-Python-blue)](https://github.com/zedyjy/CS319-Project)
+
 
 </p>
 
