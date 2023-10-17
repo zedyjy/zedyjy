@@ -32,12 +32,10 @@
 ### ⚡ My Resume 
 
 <p>
-   <a href="https://github.com/zedyjy/zedyjy/files/10930675/Zeynep.Dellal.Resume.pdf"  style="color:#fe97a4">Resume</a>
+   <a href="https://github.com/zedyjy/zedyjy/files/12924461/Zeynep.Dellal.Resume.pdf"  style="color:#fe97a4">Resume</a>
 </p>
+<!--[Zeynep Dellal Resume.pdf](https://github.com/zedyjy/zedyjy/files/12924461/Zeynep.Dellal.Resume.pdf)
 
-### 🔭 I’m currently learning 
-
-Python and building websites! I'm interested in machine learning and Artificial Intelligence.
 
 <!--
 - 🔭 I’m currently working on ...
