@@ -34,6 +34,12 @@
 <p>
    <a href="https://github.com/zedyjy/zedyjy/files/12924461/Zeynep.Dellal.Resume.pdf"  style="color:#fe97a4">Resume</a>
 </p>
+
+### ❤️ My Photography Website 
+
+<p>
+   <a href="https://zedyjy.github.io/galleria-souvlaki/"  style="color:#fe97a4">Galleria Souvlaki</a>
+</p>
 <!--[Zeynep Dellal Resume.pdf](https://github.com/zedyjy/zedyjy/files/12924461/Zeynep.Dellal.Resume.pdf)
 
 
