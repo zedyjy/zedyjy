@@ -11,6 +11,7 @@
   <a href="https://medium.com/@zeynep.dellal">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
+
   
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zeynep.dellal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
@@ -32,7 +33,7 @@
 ### ⚡ My Resume 
 
 <p>
-   <a href="https://github.com/zedyjy/zedyjy/files/12924461/Zeynep.Dellal.Resume.pdf"  style="color:#fe97a4">Resume</a>
+   <a href="https://github.com/zedyjy/zedyjy/files/13589522/Zeynep.Dellal.Resume.pdf"  style="color:#fe97a4">Resume</a>
 </p>
 
 ### ❤️ My Photography Website 
@@ -41,7 +42,7 @@
    <a href="https://zedyjy.github.io/galleria-souvlaki/"  style="color:#fe97a4">Galleria Souvlaki</a>
 </p>
 <!--[Zeynep Dellal Resume.pdf](https://github.com/zedyjy/zedyjy/files/12924461/Zeynep.Dellal.Resume.pdf)
-
+[Zeynep Dellal Resume.pdf](https://github.com/zedyjy/zedyjy/files/13589522/Zeynep.Dellal.Resume.pdf)
 
 <!--
 - 🔭 I’m currently working on ...
