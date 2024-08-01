@@ -33,7 +33,7 @@
 ### ⚡ My Resume 
 
 <p>
-   <a href="https://github.com/user-attachments/files/16459045/Zeynep.Dellal.Resume.pdf"  style="color:#fe97a4">Resume</a>
+   <a href="https://github.com/user-attachments/files/16459075/Zeynep.Dellal.Resume.pdf"  style="color:#fe97a4">Resume</a>
 </p>
 
 ### ❤️ My Photography Website 
@@ -41,17 +41,15 @@
 <p>
    <a href="https://zedyjy.github.io/galleria-souvlaki/"  style="color:#fe97a4">Galleria Souvlaki</a>
 </p>
-<!--[Zeynep Dellal Resume.pdf](https://github.com/zedyjy/zedyjy/files/12924461/Zeynep.Dellal.Resume.pdf)
-[Zeynep Dellal Resume.pdf](https://github.com/zedyjy/zedyjy/files/13589522/Zeynep.Dellal.Resume.pdf)
 
-<!--
+<!--[Zeynep Dellal Resume.pdf](https://github.com/user-attachments/files/16459075/Zeynep.Dellal.Resume.pdf)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...[Zeynep Dellal Resume.pdf](https://github.com/zedyjy/zedyjy/files/10930675/Zeynep.Dellal.Resume.pdf)
-[Zeynep Dellal Resume.pdf](https://github.com/user-attachments/files/16459045/Zeynep.Dellal.Resume.pdf)
+- 😄 Pronouns: ...
 
 - ⚡ Fun fact: ...--!>
