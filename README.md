@@ -33,7 +33,7 @@
 ### ⚡ My Resume 
 
 <p>
-   <a href="https://github.com/zedyjy/zedyjy/files/13589522/Zeynep.Dellal.Resume.pdf"  style="color:#fe97a4">Resume</a>
+   <a href="https://github.com/user-attachments/files/16459045/Zeynep.Dellal.Resume.pdf"  style="color:#fe97a4">Resume</a>
 </p>
 
 ### ❤️ My Photography Website 
@@ -52,5 +52,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...[Zeynep Dellal Resume.pdf](https://github.com/zedyjy/zedyjy/files/10930675/Zeynep.Dellal.Resume.pdf)
+[Zeynep Dellal Resume.pdf](https://github.com/user-attachments/files/16459045/Zeynep.Dellal.Resume.pdf)
 
 - ⚡ Fun fact: ...--!>
