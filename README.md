@@ -33,7 +33,7 @@
 ### ⚡ My Resume 
 
 <p>
-   <a href="https://github.com/user-attachments/files/17533388/Zeynep.Dellal.Resume.pdf"  style="color:#fe97a4">Resume</a>
+   <a href="https://github.com/user-attachments/files/17951002/Zeynep.Dellal.Resume.pdf"  style="color:#fe97a4">Resume</a>
 </p>
 
 ### ❤️ My Photography Website 
