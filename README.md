@@ -25,7 +25,7 @@
 
  <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedyjy" width="350" -->
 <a href="https://github.com/zedyjy/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedyjy&theme=dark" alt="Top Languages" width="350" height="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedyjy&theme=dark&cache_seconds=30" alt="Top Languages" width="350" height="300">
 </a>
 
 </p>
